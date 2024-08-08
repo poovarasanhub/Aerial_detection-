@@ -1,0 +1,9 @@
+Metrics,Values
+Accuracy,0.9843
+Precision,0.9844
+Recall,0.9843
+Specificity,0.9992
+PR AUC Score,0.9904
+ROC AUC Score,0.9992
+F1-Score,0.9843
+Mathews Correlation Coefficient,0.9835
