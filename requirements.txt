@@ -1,0 +1,14 @@
+tensorflow-gpu==2.2.0
+pandas
+scikit-learn
+seaborn
+matplotlib
+opencv-python
+opencv-contrib-python
+pillow
+prettytable
+tqdm
+landscapes
+pyqt5
+cmapy
+numpy
